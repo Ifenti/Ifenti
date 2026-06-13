@@ -1,4 +1,4 @@
-![Yo, my name is Ifeanyi](<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/6086cd4d-8c7a-4062-be87-0389e44e929e" />)
+![Yo, my name is Ifeanyi](https://github.com/user-attachments/assets/6086cd4d-8c7a-4062-be87-0389e44e929e)
 
 
 <div id="toc">
