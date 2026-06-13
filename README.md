@@ -1,4 +1,5 @@
-![Yo, my name is Ifeanyi](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
+![Yo, my name is Ifeanyi](<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/6086cd4d-8c7a-4062-be87-0389e44e929e" />)
+
 
 <div id="toc">
   <ul align="center" style="list-style: none">
