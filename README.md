@@ -12,7 +12,7 @@
 </div>
 
 **<h3 align="left">Connect with me:</h3>** 
-<a href="ifentibusiness@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/ifenti" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.youtube.com/@@TheOneAndOnlyIfenti" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+<a href="ifenti.dev@proton.me" target="_blank"><img src="https://img.shields.io/badge/-Proton%20Mail-6D4AFF?style=flat-square&logo=protonmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/ifenti" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.youtube.com/@@TheOneAndOnlyIfenti" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
  **<h3 align="left">Hi there! I'm a 15-year-old full-stack web and game developer. 🚀
 I love building interactive web apps and 2D games while exploring both front-end and back-end programming. Always learning, experimenting, and shipping new projects!
