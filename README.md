@@ -21,8 +21,8 @@ I love building interactive web apps and 2D games while exploring both front-end
 
 **I can build you a fast, responsive websites from sleek landing pages to advanced platforms with secure user logins and databases. One-time pricing starts at £200 for standard sites up to £350 - £500 for complex builds—with zero ongoing monthly software fees.**
 
-- **Development:** [Ifeanyi O](https://github.com/Ifenti)
-- **UI/UX Design:** [Jarrod S](their-github-link)
+**Silva Lemon Web Development**
+<a href="https://ifenti.github.io/silva-lemon-web-development-website/">Silva Lemon Web Development</a>
 
 <hr>
 
