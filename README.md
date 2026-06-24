@@ -35,8 +35,8 @@ I love building interactive web apps and 2D games while exploring both front-end
 - 💬 Ask me about: **HTML and CSS, Unity C#**
 - ⚡ Fun fact: **I also like creating animations**
 - 📂 Portfolio: **<a href="https://ifenti.github.io/Ifenti-Portfolio/" target="_blank">https://ifenti.github.io/Ifenti-Portfolio/</a>**
-- My company: **
-<a href="https://ifenti.github.io/silva-lemon-web-development-website/">Silva Lemon Web Development</a>**
+- My company: 
+<a href="https://ifenti.github.io/silva-lemon-web-development-website/">Silva Lemon Web Development</a>
 
  **<h3 align="left">Skills</h3>**
 
